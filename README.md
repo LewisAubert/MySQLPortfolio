@@ -7,3 +7,5 @@ The project descrption was "Create your own store! Your store should sell one ty
 2. SolarSystemKAL2.sql is the code written in SQL for the 2nd project on Khan Academy. This was part of the 'data dig' project.
 
 3. Movie Stars.sql is the code written in SQL for the 3rd project on Khan Academy. This was the final project from Lesson 3: Relational queries in SQL.
+
+4. Lessson4Project.sql is the code written in SQL for the 4th project on Khan Academy. This was the final project from Lesson 4: Modifying databases with SQL.
